@@ -96,9 +96,9 @@ Negative:
 
 ## 🔥 Sample Results
 
-| ![Result 1](./aabrur-ex%20image%201.jpeg) | ![Result 2](./aabrur-ex%20image%202.jpeg) |
+| ![Result 2](./aabrur-ex%20image%202.jpeg) | ![Result 1](./aabrur-ex%20image%201.jpeg) |
 | ----------------------------------------- | ----------------------------------------- |
-| Skirk vs Dragon                           | Raiden vs Skirk                           |
+| Reference                                 | Result                                    |
 
 ---
 
