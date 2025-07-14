@@ -130,4 +130,4 @@ Follow: [@aabrur](https://github.com/aabrur)
 
 ## 🔗 Download & Start
 
-💾 Load [`The_Holy_Grail.json`](./The%20Holy%20Grail.json) → Fire up ComfyUI → Build your own anime dimension ⚔️
+💾 Load [`The_Holy_Grail.json`](./The%20Holy%20Grail.json) → Fire up ComfyUI → Build your own dimension ⚔️
