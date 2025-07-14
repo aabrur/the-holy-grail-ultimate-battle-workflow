@@ -1,15 +1,15 @@
 # The Holy Grail: Ultimate Battle Workflow (ComfyUI)
 
+![The Holy Grail Banner](./banner.png)
 
 > **"From thought to frame — no limits, no filters. Just you and the rift."**
 > **"Every spark in your mind becomes a story in this canvas."**
-> 
 
 ---
 
 ## ⚔️ What is The Holy Grail?
 
-**The Holy Grail** is a modular, cinematic-grade **GIGA workflow** for [ComfyUI](https://github.com/comfyanonymous/ComfyUI), built for creators who demand **total control** over the look, feel, pose, style, and soul of every image.
+**The Holy Grail** is a modular, cinematic-grade **GIGA workflow** for ComfyUI, built for creators who demand **total control** over the look, feel, pose, style, and soul of every image.
 
 This isn't just a prompt tool — it's a **vessel for pure imagination**, a system where **face reference, pose reference, emotion, atmosphere**, and **storytelling** merge into one creative stream.
 
@@ -19,26 +19,24 @@ If you've ever wished to take the exact image in your head and bring it into exi
 
 ## 📦 What's Included?
 
-* `The_Holy_Grail.json` full GIGA workflow
+* [`The_Holy_Grail.json`](./The%20Holy%20Grail.json) full GIGA workflow
 * Ready-to-use LoRA stack and modular blocks
 * Face reference (IPAdapter) + Pose reference (ControlNet)
 * Conditioning, dual KSampler, detailer, and upscale
-* `install.txt` guide for 1-click setup with Git
+* [`Install Guide — The Holy Grail (ComfyUI Workflow)`](./Install%20Guide%20%E2%80%94%20The%20Holy%20Grail%20%28ComfyUI%20Workf...) for 1-click setup with Git
 
 ---
 
 ## 🚀 1-Click Install (Clone via Git)
 
-You can install the full repo in one command:
-
-```
-git clone https://github.com/yourusername/the-holy-grail-ultimate-battle-workflow.git
+```bash
+git clone https://github.com/aabrur/the-holy-grail-ultimate-battle-workflow.git
 ```
 
 Then simply open ComfyUI and load:
 
 ```
-workflows/The_Holy_Grail.json
+./The Holy Grail.json
 ```
 
 ---
@@ -70,11 +68,11 @@ Negative:
 
 ### 4. Suggested Settings
 
-* Sampler: `DPM++ 2M Karras`
-* Steps: `30–40`
-* CFG Scale: `7.5–8.5`
-* Resolution: `1024x1536`, `1152x768`, or higher
-* Upscaler: UltraSharp 2x–4x
+* **Sampler:** DPM++ 2M Karras
+* **Steps:** 30–40
+* **CFG Scale:** 7.5–8.5
+* **Resolution:** 1024x1536, 1152x768, or higher
+* **Upscaler:** UltraSharp 2x–4x
 
 ---
 
@@ -90,12 +88,11 @@ Negative:
 
 ---
 
-## 🔥 Sample Use Cases
+## 🔥 Sample Results
 
-* Skirk vs Primordial Dragon (cinematic frame)
-* Raiden Shogun mid-slash lightning burst
-* Traveler Aether vs Void Beast
-* Original OC character cinematic portrait
+| ![Result 1](./aabrur-ex%20image%201.jpeg) | ![Result 2](./aabrur-ex%20image%202.jpeg) |
+| ----------------------------------------- | ----------------------------------------- |
+| Skirk vs Dragon                           | Raiden vs Skirk                           |
 
 ---
 
@@ -113,7 +110,7 @@ Every element you imagine — pose, facial structure, lighting angle, mood — c
 
 **Crimson Rift Studio**
 “Every frame bleeds purpose.”
-Follow: [@aabrur](https://your-link)
+Follow: [@aabrur](https://github.com/aabrur)
 
 ---
 
@@ -127,7 +124,4 @@ Follow: [@aabrur](https://your-link)
 
 ## 🔗 Download & Start
 
-💾 Load `The_Holy_Grail.json` → Fire up ComfyUI → Build your own dimension.
-
----
-
+💾 Load [`The_Holy_Grail.json`](./The%20Holy%20Grail.json) → Fire up ComfyUI → Build your own anime dimension ⚔️
