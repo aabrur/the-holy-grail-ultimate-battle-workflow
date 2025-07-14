@@ -1,10 +1,9 @@
 # The Holy Grail: Ultimate Battle Workflow (ComfyUI)
 
-![Banner](https://your-image-url-here.com/banner.png)
 
 > **"From thought to frame — no limits, no filters. Just you and the rift."**
 > **"Every spark in your mind becomes a story in this canvas."**
-> — Crimson Rift Studio
+> 
 
 ---
 
