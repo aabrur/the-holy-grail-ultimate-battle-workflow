@@ -1,0 +1,84 @@
+# Install Guide — The Holy Grail (ComfyUI Workflow)
+
+Welcome to **The Holy Grail**, a modular, cinematic-grade GIGA workflow built for ComfyUI. This guide will walk you through installing all required components.
+
+---
+
+## 🛠️ Requirements
+
+* Python 3.10 (recommended)
+* Git (optional, for 1-click repo clone)
+* ComfyUI installed locally
+
+---
+
+## 📦 1-Click Clone via Git
+
+If you have Git installed, simply run:
+
+```
+git clone https://github.com/yourusername/the-holy-grail-ultimate-battle-workflow.git
+```
+
+Then open `The_Holy_Grail.json` inside `workflows/` using ComfyUI.
+
+---
+
+## 📁 Folder Setup
+
+Make sure the following folders exist in your ComfyUI directory:
+
+```
+ComfyUI/
+├── checkpoints/
+├── loras/
+├── embeddings/
+├── controlnet/
+├── models/clip_vision/
+```
+
+---
+
+## 🔽 Download Required Assets
+
+### 🔹 1. Checkpoint (Anime Style)
+
+* **meinamiX\_v12Final.safetensors**
+  🔗 [https://civitai.com/models/153198](https://civitai.com/models/153198) → Place in `ComfyUI/checkpoints/`
+
+### 🔹 2. LoRA Models
+
+* **a31\_skirkXL**
+* **raiden\_shogun\_gi\_v2**
+* **XL\_boss\_battle**, **MiniAXV9XLScreencap**
+  🔗 Download from [CivitAI](https://civitai.com/) → Place in `ComfyUI/loras/`
+
+### 🔹 3. IPAdapter + CLIP Vision
+
+* IPAdapter weights: [https://github.com/tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
+* CLIP Vision: [https://huggingface.co/openai/clip-vit-large-patch14](https://huggingface.co/openai/clip-vit-large-patch14) → Place in `ComfyUI/models/clip_vision/`
+
+### 🔹 4. ControlNet Models
+
+* OpenPose: [https://huggingface.co/lllyasviel/ControlNet](https://huggingface.co/lllyasviel/ControlNet) → Place in `ComfyUI/controlnet/`
+
+---
+
+## ⚙️ Optional Tools
+
+* **UltraSharp Upscaler** (optional but recommended)
+* **RestoreFace / Detailer** (already wired in workflow)
+
+---
+
+## ✅ Ready to Go
+
+Once all assets are in place:
+
+1. Launch ComfyUI
+2. Load `The_Holy_Grail.json`
+3. Prompt + Render + Enjoy
+
+Happy rendering from **Crimson Rift Studio** ⚔️
+
+> “Every frame bleeds purpose.”
