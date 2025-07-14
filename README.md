@@ -17,6 +17,12 @@ If you've ever wished to take the exact image in your head and bring it into exi
 
 ---
 
+## 🧠 Workflow Preview
+
+![Workflow Preview](./The%20Holy%20Grail%20Preview.png)
+
+---
+
 ## 📦 What's Included?
 
 * [`The_Holy_Grail.json`](./The%20Holy%20Grail.json) full GIGA workflow
@@ -92,7 +98,7 @@ Negative:
 
 | ![Result 1](./aabrur-ex%20image%201.jpeg) | ![Result 2](./aabrur-ex%20image%202.jpeg) |
 | ----------------------------------------- | ----------------------------------------- |
-| Girl Cyberpunk output                     | Girl Cyberpunk references                 |
+| Skirk vs Dragon                           | Raiden vs Skirk                           |
 
 ---
 
