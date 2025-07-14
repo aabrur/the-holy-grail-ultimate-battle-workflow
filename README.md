@@ -114,8 +114,7 @@ Every element you imagine — pose, facial structure, lighting angle, mood — c
 
 **Crimson Rift Studio**
 “Every frame bleeds purpose.”
-Follow: [@yourhandle](https://your-link)
-Contact: [collab@crimsonrift.studio](mailto:collab@crimsonrift.studio)
+Follow: [@aabrur](https://your-link)
 
 ---
 
@@ -129,7 +128,7 @@ Contact: [collab@crimsonrift.studio](mailto:collab@crimsonrift.studio)
 
 ## 🔗 Download & Start
 
-💾 Load `The_Holy_Grail.json` → Fire up ComfyUI → Build your own anime dimension.
+💾 Load `The_Holy_Grail.json` → Fire up ComfyUI → Build your own dimension.
 
 ---
 
